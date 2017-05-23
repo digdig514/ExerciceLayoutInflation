@@ -1,0 +1,6 @@
+car0,1200,car0
+car1,1000,car1
+car2,8500,car2
+car3,2390,car3
+car4,1239,car4
+car5,1299,car5
